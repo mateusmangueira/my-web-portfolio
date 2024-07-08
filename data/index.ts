@@ -2,8 +2,8 @@ import { link } from "fs";
 
 export const navItems = [
   { name: "About", link: "#about" },
-  { name: "Projects", link: "#projects" },
-  { name: "Feedback", link: "#feedbacks" },
+  //{ name: "Projects", link: "#projects" },
+  // { name: "Feedback", link: "#feedbacks" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -71,6 +71,7 @@ export const gridItems = [
   },
 ];
 
+// to do Real projects
 export const projects = [
   {
     id: 1,
@@ -106,6 +107,7 @@ export const projects = [
   },
 ];
 
+//to do Real feedbacks
 export const feedbacks = [
   {
     quote:
